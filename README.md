@@ -2,10 +2,6 @@
 dbms-2 final project
 # Project Title
 
-A brief description of your project.
-
-[![Mongo db]]
-[![project]]
 
 ## Installation
 
