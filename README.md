@@ -4,8 +4,8 @@ dbms-2 final project
 
 A brief description of your project.
 
-[![Mongo db](https://img.shields.io/travis/username/project/master.svg?style=flat-square)]
-[![project](https://img.shields.io/github/license/username/project.svg?style=flat-square)]
+[![Mongo db]]
+[![project]]
 
 ## Installation
 
