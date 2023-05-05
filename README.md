@@ -1,17 +1,39 @@
-# DBMS-FINAL
-dbms-2 final project
-# Project Title
+📊 DBMS-FINAL
+This is the final project for DBMS-2 course.
 
+💻 Installation
+To install the project, you need to follow these steps:
 
-## Installation
+Step 1
+Step 2
+Step 3
+...
+🚀 Usage
+To use this project, run the following command:
 
-Provide instructions on how to install your project, including any dependencies that are required to run your project.
+python
+Copy code
+python main.py
+For more detailed instructions, please refer to the user manual.
 
-## Usage
+📖 API / Interface Documentation
+This project provides an API to interact with the database. For more information, please see the API documentation.
 
-Provide instructions on how to use your project, including any commands or options that are available. Include code snippets and examples to illustrate how to use your project.
+🤝 Contributing
+Contributions to this project are always welcome! To contribute, please see the contribution guidelines.
 
-## API / Interface Documentation
+📝 License
+This project is licensed under the MIT License.
 
-If your project has any API or interface, provide documentation on how to use it.
+🙏 Acknowledgments
+Special thanks to the following people for their contributions to this project:
 
+@johndoe
+@janedoe
+📷 Screenshots
+Here are some screenshots of the project in action:
+
+Screenshot 1
+Screenshot 2
+
+Feel free to customize the emojis and stickers to your liking.
